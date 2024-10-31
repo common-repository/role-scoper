@@ -1,0 +1,21 @@
+/* Migrate menu */
+
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top,
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a {
+	color: #fff;
+	background: #655997;
+}
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top:hover,
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top:focus,
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a:hover,
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a:focus {
+	color: #fff;
+	background: #483f6b;
+}
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a .wp-menu-image:before {
+	color: #fff;
+}
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a:hover .wp-menu-image:before,
+#adminmenu li#toplevel_page_rs-migration-preview.menu-top > a:focus .wp-menu-image:before {
+	color: #fff;
+}
